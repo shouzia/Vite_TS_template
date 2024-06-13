@@ -12,9 +12,11 @@
 9. eslint 代码规范
 
 
-安装
-`npm install`
+安装  
+`npm install`  
+
 启动
-`npm run dev`
+`npm run dev`  
+
 打包
 `npm run build`
